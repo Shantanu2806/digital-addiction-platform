@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5220722592",
+    "project_id": "digital-addiction-tracker",
+    "storage_bucket": "digital-addiction-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5220722592:android:6f59e001c27168ae1426c5",
+        "android_client_info": {
+          "package_name": "com.example.addiction_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wUF9J3EosQECOw7K3v6L-czcZk1CuZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

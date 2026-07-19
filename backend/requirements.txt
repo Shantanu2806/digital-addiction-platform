@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+firebase-admin
+tensorflow
+scikit-learn
+pandas
+numpy
+joblib
+pydantic

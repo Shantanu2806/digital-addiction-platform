@@ -1,0 +1,11 @@
+backend/venv/
+backend/__pycache__/
+*.pkl
+*.h5
+flutter_app/addiction_tracker/addiction_tracker/build/
+flutter_app/addiction_tracker/addiction_tracker/.dart_tool/
+.dart_tool/
+build/
+*.pyd
+*.lib
+*.dll
