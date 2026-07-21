@@ -9,3 +9,4 @@ build/
 *.pyd
 *.lib
 *.dll
+flutter_app/addiction_tracker/addiction_tracker/lib/firebase_options.dart
